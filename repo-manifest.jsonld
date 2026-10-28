@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/optuna/kurobako-py/commit/bd1d6448dd5388ff4fcb3146dad3869aec77d0d7",
       "git:hexsha": "bd1d6448dd5388ff4fcb3146dad3869aec77d0d7",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/optuna/kurobako-py/commit/a9a8132e882df0bfa8f40a8b8b604f77206d8710",
