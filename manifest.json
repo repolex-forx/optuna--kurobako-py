@@ -1,0 +1,32 @@
+{
+  "manifest_version": "1.0",
+  "org": "optuna",
+  "repo": "kurobako-py",
+  "versions": [
+    {
+      "commit": "bd1d6448dd5388ff4fcb3146dad3869aec77d0d7",
+      "parsed_at": "2026-10-28T13:24:39.704968+00:00",
+      "filetree": "filetree/bd1d6448dd5388ff4fcb3146dad3869aec77d0d7.nq.gz",
+      "blobs": [
+        "blob/1f0b734eb1e6c2b158b511497a513e7d626743fb.nq.gz",
+        "blob/acb77de0bdc37063d88868170590788123be5edf.nq.gz",
+        "blob/2025285cf81f9d8a23ac9dc4d1a801875f37a295.nq.gz",
+        "blob/a020597327ff0de35ae5e787e2c93b364d64bde3.nq.gz",
+        "blob/abd62d7d54e007460c7d46a2387a1c50d923173b.nq.gz",
+        "blob/9aadf9357ecf41ff4818037023c315bea1491b70.nq.gz",
+        "blob/e443b2ceeb0d872211af3d55bab3c3b2125ab0a2.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/60f05c23496186656f63e4a5e6860191f7f89ce8.nq.gz",
+        "blob/58844f566eccc84c36f508bd34c14e764f74a965.nq.gz",
+        "blob/1aba38f67a2211cf5b09466d7b411206cb7223bf.nq.gz",
+        "blob/60ffdd5553189fb98af55cf4aa55eedda2ffedc6.nq.gz",
+        "blob/583304c443919950a5fe7b4e907e7a2831abd2da.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
