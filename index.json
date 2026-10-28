@@ -1,0 +1,11 @@
+{
+  "org": "optuna",
+  "repo": "kurobako-py",
+  "versions": [
+    {
+      "commit": "bd1d6448dd5388ff4fcb3146dad3869aec77d0d7",
+      "tag": "",
+      "parsed_at": "2026-10-28T13:26:39.513739+00:00"
+    }
+  ]
+}
